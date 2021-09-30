@@ -24,7 +24,6 @@ Automated Deployment
 Working Example App 
 
 
-
 Responsive Environment 
 css 
 sass
